@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Chelsey Renee Means",
+    "description": "This extension is designed for Demo and learning Purposes regarding Senior Project",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "Images/blocker_64.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
